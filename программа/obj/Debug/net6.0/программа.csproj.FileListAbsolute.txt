@@ -1,0 +1,15 @@
+/home/sergej/Рабочий стол/control_work/программа/bin/Debug/net6.0/программа
+/home/sergej/Рабочий стол/control_work/программа/bin/Debug/net6.0/программа.deps.json
+/home/sergej/Рабочий стол/control_work/программа/bin/Debug/net6.0/программа.runtimeconfig.json
+/home/sergej/Рабочий стол/control_work/программа/bin/Debug/net6.0/программа.dll
+/home/sergej/Рабочий стол/control_work/программа/bin/Debug/net6.0/программа.pdb
+/home/sergej/Рабочий стол/control_work/программа/obj/Debug/net6.0/программа.csproj.AssemblyReference.cache
+/home/sergej/Рабочий стол/control_work/программа/obj/Debug/net6.0/программа.GeneratedMSBuildEditorConfig.editorconfig
+/home/sergej/Рабочий стол/control_work/программа/obj/Debug/net6.0/программа.AssemblyInfoInputs.cache
+/home/sergej/Рабочий стол/control_work/программа/obj/Debug/net6.0/программа.AssemblyInfo.cs
+/home/sergej/Рабочий стол/control_work/программа/obj/Debug/net6.0/программа.csproj.CoreCompileInputs.cache
+/home/sergej/Рабочий стол/control_work/программа/obj/Debug/net6.0/программа.dll
+/home/sergej/Рабочий стол/control_work/программа/obj/Debug/net6.0/refint/программа.dll
+/home/sergej/Рабочий стол/control_work/программа/obj/Debug/net6.0/программа.pdb
+/home/sergej/Рабочий стол/control_work/программа/obj/Debug/net6.0/программа.genruntimeconfig.cache
+/home/sergej/Рабочий стол/control_work/программа/obj/Debug/net6.0/ref/программа.dll
